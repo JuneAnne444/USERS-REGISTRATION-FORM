@@ -21,9 +21,11 @@ The form is divided into sections:
 
 ## 🚀 How to View
 1. Clone or download this repository.  
-2. Open `file:///C:/Users/ADMIN/Downloads/Index%20(1).html` in any modern web browser.  file:///C:/Users/ADMIN/Downloads/Index%20(1).html
+2. Open :https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/commit/f06af041f8e9caafcce6e30ca874948496e06acf
 3. Fill out the form fields to test functionality.  
 
 ## 📖 References
 - [MDN Web Docs: HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [W3C HTML5 Specification](https://www.w3.org/TR/html52/)
+- https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/commit/f06af041f8e9caafcce6e30ca874948496e06acf
+- 
