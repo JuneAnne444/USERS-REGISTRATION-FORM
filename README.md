@@ -21,7 +21,7 @@ The form is divided into sections:
 
 ## 🚀 How to View
 1. Clone or download this repository.  
-2. Open :https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/commit/f06af041f8e9caafcce6e30ca874948496e06acf or https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/blob/main/Index.html
+2. Open :https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/commit/f06af041f8e9caafcce6e30ca874948496e06acf or https://github.com/JuneAnne444/USERS-REGISTRATION-FORM/blob/main/Index.html & [Open the form](https://JuneAnne444.github.io/USERS-REGISTRATION-FORM/form.html)
 3. Fill out the form fields to test functionality.  
 
 ## 📖 References
